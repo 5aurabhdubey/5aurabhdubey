@@ -19,7 +19,8 @@
 - 🌾 Built **AI Crop Disease Detection using TensorFlow Lite**
 - 🤖 Developed **LLM Bot using LangChain**
 - 🏆 Top 10 Finalist – GeekVerse Hackathon (900+ teams)
-- 🎯 3rd Year CSE | Targeting FAANG
+- 🏆 2nd Rank in National Ai Conference 2026
+- 🎯 2026 Graduate Btech CSE | Targeting FAANG
 
 ---
 
